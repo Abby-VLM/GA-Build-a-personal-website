@@ -8,4 +8,4 @@ HTMl and CSS
 <br />
 First attempt at uploading my own images from ingur 
 <br />
-https://dash.generalassemb.ly/AVW/build-your-own-blog-theme
+https://dash.generalassemb.ly/AVW/build-your-own-personal-website
