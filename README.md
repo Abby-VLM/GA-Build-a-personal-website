@@ -7,3 +7,5 @@ A homepage for a personal website with 'send an email' option -> not responsive 
 HTMl and CSS
 <br />
 First attempt at uploading my own images from ingur 
+<br />
+https://dash.generalassemb.ly/AVW/build-your-own-blog-theme
